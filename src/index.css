@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f4f4;
+}
+
+a {
+  color: #2c5aa0;
+  text-decoration: none;
+}
+
+.navbar {
+  background: #2c3e50;
+ 
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  color: #fff;
+  margin-left: 15px;
+}
+
+/*"ya no hay tiempo :c"*/
